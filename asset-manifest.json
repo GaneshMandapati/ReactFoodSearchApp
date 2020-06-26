@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/GaneshMadapati/ReactFoodSearchApp/static/css/main.dddc89e2.chunk.css",
+    "main.js": "/GaneshMadapati/ReactFoodSearchApp/static/js/main.5ffd95d4.chunk.js",
+    "main.js.map": "/GaneshMadapati/ReactFoodSearchApp/static/js/main.5ffd95d4.chunk.js.map",
+    "runtime-main.js": "/GaneshMadapati/ReactFoodSearchApp/static/js/runtime-main.44c066d0.js",
+    "runtime-main.js.map": "/GaneshMadapati/ReactFoodSearchApp/static/js/runtime-main.44c066d0.js.map",
+    "static/js/2.dd023780.chunk.js": "/GaneshMadapati/ReactFoodSearchApp/static/js/2.dd023780.chunk.js",
+    "static/js/2.dd023780.chunk.js.map": "/GaneshMadapati/ReactFoodSearchApp/static/js/2.dd023780.chunk.js.map",
+    "index.html": "/GaneshMadapati/ReactFoodSearchApp/index.html",
+    "precache-manifest.cad8b0da7e5d3cfcc299d551ec28602e.js": "/GaneshMadapati/ReactFoodSearchApp/precache-manifest.cad8b0da7e5d3cfcc299d551ec28602e.js",
+    "service-worker.js": "/GaneshMadapati/ReactFoodSearchApp/service-worker.js",
+    "static/css/main.dddc89e2.chunk.css.map": "/GaneshMadapati/ReactFoodSearchApp/static/css/main.dddc89e2.chunk.css.map",
+    "static/js/2.dd023780.chunk.js.LICENSE.txt": "/GaneshMadapati/ReactFoodSearchApp/static/js/2.dd023780.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44c066d0.js",
+    "static/js/2.dd023780.chunk.js",
+    "static/css/main.dddc89e2.chunk.css",
+    "static/js/main.5ffd95d4.chunk.js"
+  ]
+}
