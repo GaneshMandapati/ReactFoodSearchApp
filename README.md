@@ -1,4 +1,4 @@
-visit this https://ganeshmadapati.github.io/ReactFoodSearchApp/ React FoodSearchApp Using Html,CSS,Javascript,React Js
+visit this https://ganeshmandapati.github.io/ReactFoodSearchApp/ React FoodSearchApp Using Html,CSS,Javascript,React Js
 
 
 
