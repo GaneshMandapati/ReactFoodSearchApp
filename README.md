@@ -2,6 +2,9 @@ A simple food search web app where you can search food items and can read about 
 
 Live: https://ganeshmandapati.github.io/ReactFoodSearchApp/ 
 
+![food-search-app](https://user-images.githubusercontent.com/43996741/116784177-7e02a280-aab0-11eb-8d44-3f06dc2b4917.png)
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
