@@ -1,7 +1,6 @@
-visit this https://ganeshmandapati.github.io/ReactFoodSearchApp/ React FoodSearchApp Using Html,CSS,Javascript,React Js
+A simple food search web app where you can search food items and can read about Ingredients inside it. Tools used: HTML, CSS, Reactjs, REST API, Axios.
 
-
-
+Live: https://ganeshmandapati.github.io/ReactFoodSearchApp/ 
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
